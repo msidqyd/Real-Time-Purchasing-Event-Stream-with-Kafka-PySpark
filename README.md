@@ -42,7 +42,7 @@ This project simulates a real-time purchasing transaction stream and processes i
 
 Simulates continuous purchase events:
 - `transaction_id`, `user_id`, `goods`, `quantity`, `price`, `amount`, `timestamp`
-- 2% of events have timestamps 30–60 minutes earlier (simulating late events)
+- 10% of events have timestamps 30–60 minutes earlier (simulating late events)
 
 
 ### Notes
