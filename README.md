@@ -82,8 +82,9 @@ query1 = (
 )
 
 ```
+![Screenshot 2025-06-29 205646](https://github.com/user-attachments/assets/5bb0d26a-5b4b-432a-9a02-26b4def4660e)
 
-### Show Aggregatin
+### Show Aggregation
 ```python
 #Transform data before do aggregation.
 
@@ -124,7 +125,10 @@ query2 = (
     .start()
 )
 ```
+![Screenshot 2025-06-29 205622](https://github.com/user-attachments/assets/7879bad9-5e73-448e-94bd-c8734301a6a4)
 
 ### Documentation
+![Screenshot 2025-06-29 204216](https://github.com/user-attachments/assets/e34d4977-1efa-4726-ba90-0f93ffb782b1)
+![image](https://github.com/user-attachments/assets/22efa0a8-07a2-4b51-97bf-6945c83f57a7)
 
 
